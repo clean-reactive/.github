@@ -11,30 +11,35 @@ replacing it.
 
 ## Why it matters
 
-- **Technical agility**. The practice supports technical agility -
+- **Technical agility**. The archictecture supports technical agility -
   architectural units are small and independent, work splits along interfaces,
-  and a change stays contained to the unit responsible for it.  Agile process is
-  only part of agile development - technical agility is the rest.
+  and a change stays contained to the unit responsible for it.  Agile process
+  is only part of agile development - technical agility is the rest.
 
-- **Shared understanding**. The practice formalizes architecture and
-  development methodology so the system is understood the same way. A
-  developer joining a feature, a teammate picking up another's work, or an AI
-  agent given a task all share the same model and can implement it
+- **Shared understanding**. The architecture and development methodology are
+  formalized so that the system is understood in the same way by everyone. A
+  developer joining a feature, a teammate picking up another person's work, or
+  an AI agent given a task all share the same model and can implement it
   consistently.
 
-- **Cross-platform portability**. Because the architecture is the same across
-  platforms, porting is not redesigning the application but reimplementing
-  units against the same diagram using platform-specific tools and libraries.
+- **Cross-platform portability**. The architecture is the same across
+  platforms, therefore porting is not redesigning the application but
+  reimplementing units against the same diagram using platform-specific tools
+  and libraries.
+
 
 ## What's here
 
 - [architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md)
 - [development methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md)
 - samples
+  * [React And RTK](https://github.com/clean-reactive/sample-react-rtk)
+  * [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
 
 ## Status
 
-The architecture and development methodology are stable enough to use. The
-samples are works in progress. Any related discussions, issues, and
-contributions are welcome.
+The architecture and development methodology are stable enough to use by
+application architectect. Inroductoin guide for begginers, the samples are
+works in progress. Any related discussions, issues, and contributions are
+welcome.
 

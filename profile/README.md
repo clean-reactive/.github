@@ -6,14 +6,14 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-Clean Reactive Architecture is an implementation of the Clean Architecture
-concept for reactive client applications - applications powered by React,
-Angular, Vue, Jetpack Compose, SwiftUI, or any framework based on the observer
-pattern.  
+Clean Reactive Architecture is a formalized and coherent implementation of the
+Clean Architecture concept for reactive client applications - applications
+powered by React, Angular, Vue, Jetpack Compose, SwiftUI, or any framework
+based on the observer pattern.  
 
-Clean Reactive Architecture is a formalized, coherent architecture with
-development methodology, that composes with what teams already use rather than
+Clean Reactive Architecture composes with what teams already use rather than
 replacing it.
 
 ## Why it matters
@@ -49,4 +49,6 @@ The architecture and development methodology are stable enough to use by
 application architectects. Inroductoin guide for begginers, the samples are
 works in progress. Any related discussions, issues, and contributions are
 welcome.
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vv4hCs5P)
 

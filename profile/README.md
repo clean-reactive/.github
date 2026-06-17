@@ -39,7 +39,7 @@ replacing it.
 ## Status
 
 The architecture and development methodology are stable enough to use by
-application architectect. Inroductoin guide for begginers, the samples are
+application architectects. Inroductoin guide for begginers, the samples are
 works in progress. Any related discussions, issues, and contributions are
 welcome.
 

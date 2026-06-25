@@ -47,7 +47,7 @@ replacing it.
 ## Status
 
 The architecture and development methodology are stable enough to use by
-application architectects. Inroductoin guide for begginers, the samples are
+application architects. Introduction guide for beginners, the samples are
 works in progress. Any related discussions, issues, and contributions are
 welcome.
 

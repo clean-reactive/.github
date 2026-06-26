@@ -40,8 +40,8 @@ replacing it.
 - [architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md)
 - [development methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md)
 - samples
-  * [React And RTK Query](https://github.com/clean-reactive/sample-react-rtk)
   * [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
+  * [React And RTK Query](https://github.com/clean-reactive/sample-react-rtk)
   * [Angular And TanStack Query](https://github.com/clean-reactive/sample-angular-tanstack-query)
 
 ## Status

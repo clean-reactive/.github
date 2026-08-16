@@ -11,7 +11,7 @@
 Clean Reactive Architecture is a formalized and coherent implementation of the
 Clean Architecture concept for reactive client applications - applications
 powered by React, Angular, Vue, Jetpack Compose, SwiftUI, or any framework
-based on the observer pattern.  
+based on the observer pattern.
 
 Clean Reactive Architecture composes with what teams already use rather than
 replacing it.
@@ -34,22 +34,20 @@ replacing it.
   reimplementing units against the same diagram using platform-specific tools
   and libraries.
 
-
 ## What's here
 
 - [architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md)
 - [development methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md)
 - samples
-  * [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
-  * [React And RTK Query](https://github.com/clean-reactive/sample-react-rtk)
-  * [Angular And TanStack Query](https://github.com/clean-reactive/sample-angular-tanstack-query)
+  - [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
+  - [React App](https://github.com/clean-reactive/sample-react-rtk)
+  - [Angular App](https://github.com/clean-reactive/sample-angular-tanstack-query)
+  - Nextjs App TBA
 
 ## Status
 
 The architecture and development methodology are stable enough to use by
-application architects. Introduction guide for beginners, the samples are
-works in progress. Any related discussions, issues, and contributions are
-welcome.
+application architects. Introduction guide for beginners is a work in progress.
+Any related discussions, issues, and contributions are welcome.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vv4hCs5P)
-

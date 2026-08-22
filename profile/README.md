@@ -42,7 +42,7 @@ replacing it.
   - [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
   - [React App](https://github.com/clean-reactive/sample-react-rtk)
   - [Angular App](https://github.com/clean-reactive/sample-angular-tanstack-query)
-  - Nextjs App TBA
+  - [Next.js App](https://github.com/clean-reactive/sample-react-nextjs)
 
 ## Status
 

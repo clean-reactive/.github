@@ -36,13 +36,14 @@ replacing it.
 
 ## What's here
 
-- [architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md)
-- [development methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md)
-- samples
+- [Architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md)
+- [Development Methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md)
+- Samples:
   - [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
   - [React App](https://github.com/clean-reactive/sample-react-rtk)
   - [Angular App](https://github.com/clean-reactive/sample-angular-tanstack-query)
   - [Next.js App](https://github.com/clean-reactive/sample-react-nextjs)
+  - Flutter App TBA
 
 ## Status
 

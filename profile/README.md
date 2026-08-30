@@ -8,17 +8,16 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-Clean Reactive Architecture is a formalized and coherent implementation of the
-Clean Architecture concept for reactive client applications - applications
-powered by React, Angular, Vue, Jetpack Compose, SwiftUI, or any framework
-based on the observer pattern.
+Clean Reactive Architecture is a formalized and coherent architecture for
+reactive client applications - applications powered by React, Angular, Vue,
+Jetpack Compose, SwiftUI, or any framework based on the observer pattern.
 
 Clean Reactive Architecture composes with what teams already use rather than
 replacing it.
 
 ## Why it matters
 
-- **Technical agility**. The archictecture supports technical agility -
+- **Technical agility**. The architecture supports technical agility -
   architectural units are small and independent, work splits along interfaces,
   and a change stays contained to the unit responsible for it.  Agile process
   is only part of agile development - technical agility is the rest.

@@ -35,14 +35,37 @@ replacing it.
 
 ## What's here
 
-- [Architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md)
-- [Development Methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md)
-- Samples:
-  - [One-file React App](https://github.com/clean-reactive/sample-react-one-file)
-  - [React App](https://github.com/clean-reactive/sample-react-rtk)
-  - [Angular App](https://github.com/clean-reactive/sample-angular-tanstack-query)
-  - [Next.js App](https://github.com/clean-reactive/sample-react-nextjs)
-  - Flutter App TBA
+- [Architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md) -
+  the units, their responsibilities and dependencies, and the reasoning behind
+  them.
+- [Development Methodology](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md) -
+  how features are built.
+
+## Samples
+
+The samples implement the same architecture with different frameworks and
+libraries. The units, the boundaries do not change - only the tools used to
+realize them.
+
+- [One-file React App](https://github.com/clean-reactive/sample-react-one-file) -
+  every architectural unit inlined in a single component, each one marked with
+  a comment. The whole architecture on one screen, with no file structure in
+  the way. The easiest place to start reading.
+- [React App](https://github.com/clean-reactive/sample-react-rtk) - React and
+  RTK Query.
+- [Angular App](https://github.com/clean-reactive/sample-angular-tanstack-query) -
+  Angular and TanStack Query.
+- [Next.js App](https://github.com/clean-reactive/sample-react-nextjs) -
+  full-stack, covering both the client and the server.
+- Flutter App - TBA.
+
+> NOTE: These samples are *partially* decomposed, and deliberately so. Some
+> units sit in their own files, others stay inlined in the component that uses
+> them - each was extracted only where it earned it. This is the state a real
+> feature sits in for most of its life, not a way station on the road to
+> extracting everything. Reading them as a mandate to give every unit its own
+> file from the start is the most common way to misread them. See [Continuous
+> refactoring](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md#continuous-refactoring).
 
 ## Status
 

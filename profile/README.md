@@ -57,7 +57,7 @@ realize them.
   Angular and TanStack Query.
 - [Next.js App](https://github.com/clean-reactive/sample-react-nextjs) -
   full-stack, covering both the client and the server.
-- Flutter App - TBA.
+- [Flutter App](https://github.com/clean-reactive/sample-flutter) - WIP
 
 > NOTE: These samples are *partially* decomposed, and deliberately so. Some
 > units sit in their own files, others stay inlined in the component that uses

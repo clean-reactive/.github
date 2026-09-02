@@ -48,16 +48,13 @@ libraries. The units, the boundaries do not change - only the tools used to
 realize them.
 
 - [One-file React App](https://github.com/clean-reactive/sample-react-one-file) -
-  every architectural unit inlined in a single component, each one marked with
-  a comment. The whole architecture on one screen, with no file structure in
-  the way. The easiest place to start reading.
-- [React App](https://github.com/clean-reactive/sample-react-rtk) - React and
-  RTK Query.
-- [Angular App](https://github.com/clean-reactive/sample-angular-tanstack-query) -
-  Angular and TanStack Query.
-- [Next.js App](https://github.com/clean-reactive/sample-react-nextjs) -
+  every architectural unit inlined in a single component in one signle file.
+  The easiest place to start.
+- [React App](https://github.com/clean-reactive/sample-react)
+- [Angular App](https://github.com/clean-reactive/sample-angular)
+- [Next.js App](https://github.com/clean-reactive/sample-nextjs-react) -
   full-stack, covering both the client and the server.
-- Flutter App - TBA.
+- [Flutter App](https://github.com/clean-reactive/sample-flutter)
 
 > NOTE: These samples are *partially* decomposed, and deliberately so. Some
 > units sit in their own files, others stay inlined in the component that uses

@@ -48,7 +48,7 @@ libraries. The units, the boundaries do not change - only the tools used to
 realize them.
 
 - [One-file React App](https://github.com/clean-reactive/sample-react-one-file) -
-  every architectural unit inlined in a single component in one signle file.
+  every architectural unit inlined in a single component in one single file.
   The easiest place to start.
 - [React App](https://github.com/clean-reactive/sample-react)
 - [Angular App](https://github.com/clean-reactive/sample-angular)

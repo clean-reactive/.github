@@ -56,6 +56,7 @@ realize them.
   full-stack, covering both the client and the server.
 - [Flutter App](https://github.com/clean-reactive/sample-flutter)
 
+<!--
 > NOTE: These samples are *partially* decomposed, and deliberately so. Some
 > units sit in their own files, others stay inlined in the component that uses
 > them - each was extracted only where it earned it. This is the state a real
@@ -63,6 +64,7 @@ realize them.
 > extracting everything. Reading them as a mandate to give every unit its own
 > file from the start is the most common way to misread them. See [Continuous
 > refactoring](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md#continuous-refactoring).
+-->
 
 ## Status
 
@@ -70,4 +72,4 @@ The architecture and development methodology are stable enough to use by
 application architects. Introduction guide for beginners is a work in progress.
 Any related discussions, issues, and contributions are welcome.
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vv4hCs5P)
+<!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vv4hCs5P) -->

@@ -35,6 +35,9 @@ replacing it.
 
 ## What's here
 
+- [Introduction](https://github.com/clean-reactive/documentation/blob/main/docs/introduction.md) -
+  the gentle way in, for anyone who has built a component in a reactive
+  framework.
 - [Architecture](https://github.com/clean-reactive/documentation/blob/main/docs/architecture.md) -
   the units, their responsibilities and dependencies, and the reasoning behind
   them.
@@ -69,7 +72,7 @@ realize them.
 ## Status
 
 The architecture and development methodology are stable enough to use by
-application architects. Introduction guide for beginners is a work in progress.
+application architects. An introduction for newcomers is available.
 Any related discussions, issues, and contributions are welcome.
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vv4hCs5P) -->

@@ -69,6 +69,23 @@ realize them.
 > refactoring](https://github.com/clean-reactive/documentation/blob/main/docs/methodology.md#continuous-refactoring).
 -->
 
+## Maintainers wanted
+
+We are looking for maintainers to build and maintain samples of Clean Reactive
+Architecture for:
+
+- **Android — Kotlin / Jetpack Compose**
+- **iOS — Swift / SwiftUI**
+- **Vue.js**
+- **Next.js / React** — help maintain and improve the existing sample.
+
+Maintainers help keep the samples idiomatic, aligned with the architecture,
+and up to date with their platforms. Contributions to documentation, tests,
+and code reviews are welcome too.
+
+Interested? [Open an issue](https://github.com/clean-reactive/.github/issues)
+and tell us which platform you would like to help with.
+
 ## Status
 
 The architecture and development methodology are stable enough to use by
